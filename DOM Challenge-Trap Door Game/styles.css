@@ -1,0 +1,87 @@
+body {
+  background-color: #1C1D1F;
+  text-align: center;
+}
+
+h1 {
+  color: green;
+  font-size: 7rem;
+  margin-bottom: 2rem;
+  margin-top: 0.5rem;
+}
+
+.text {
+  display: inline-block;
+  width: 18%;
+}
+
+.image {
+    margin: auto;
+    width: 50%;
+}
+
+.imcl {
+  margin: 1rem 1rem;
+  width: 30%;
+}
+
+p {
+    color: white;
+    font-size: 1rem;
+}
+
+footer {
+  color: white;
+  margin-top: 10rem;
+}
+
+body {
+  margin:0;
+  text-align: center;
+}
+
+.door, .door-state {
+    display: inline-block;
+    left: 25rem;
+    margin: auto;
+    position: absolute;
+    width: 20%;
+}
+
+.door-state {
+  position: absolute;
+  top: 12rem;
+  visibility: hidden;
+}
+
+.door-two, .door-state-two {
+    display: inline-block;
+    right: 25rem;
+    margin: auto;
+    position: absolute;
+    width: 20%;
+}
+
+.door-state-two {
+  position: absolute;
+  top: 12rem;
+  visibility: hidden;
+}
+
+  .ghost-one {
+      display: inline-block;
+      left: 27rem;
+      margin: auto;
+      position: absolute;
+      top: 20rem;
+      width: 15%;
+}
+
+.ghost-two {
+  display: inline-block;
+  right: 27rem;
+  margin: auto;
+  position: absolute;
+  top: 20rem;
+  width: 15%;
+}
